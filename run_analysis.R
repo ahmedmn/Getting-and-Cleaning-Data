@@ -1,8 +1,8 @@
 ##########################################################################################################
 
 ## Coursera Getting and Cleaning Data Course Project
-## Heather Wade
-## 2014-04-27
+## Ahmed Mansour
+## 2015-04-25
 
 # runAnalysis.r File Description:
 
